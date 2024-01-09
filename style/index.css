@@ -390,13 +390,13 @@ border-radius: 50px;
 background:white;
 width: 648px;
 height: 65px;
-border: 0;
-
+border: 0px;
+font-size: 30px;
 }
 #sec6b{
     border-radius: 0px 50px 50px 0px;
 background: #F00;
-border: 0;
+border: 0px;
 width: 250px;
 height: 65px;
 position: absolute;
@@ -415,7 +415,6 @@ top: 70.7%;
     line-height: normal;
     text-transform: capitalize;
     padding: 24px ;
-    
 }
 
 
